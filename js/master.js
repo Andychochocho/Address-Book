@@ -10,3 +10,16 @@ Contact.prototype.fullName = function() {
 
 
 var andyContact = new Contact("Andrew ", "Cho");
+
+
+$(document).ready(function(){
+  $("#buttonSubmit").click(function(){
+    // event.preventDefault;
+    var firstNameForm = $("#firstName").val();
+    var lastNameForm = $("#lastName").val();
+    var newContact = new Contact(firstNameForm, lastNameForm);
+
+    $("#contacts").append("<li>" + newContact.fullName() + "</li>")
+
+  });
+});
