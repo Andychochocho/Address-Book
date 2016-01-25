@@ -21,5 +21,12 @@ $(document).ready(function(){
 
     $("#contacts").append("<li>" + newContact.fullName() + "</li>")
 
+    $("#contacts > * ").click(function(){
+      $(".show-contacts h3").text(newContact.fullName());
+      $("#contact-list").text(newContact.firstName);
+      $("#contact-list").text(newContact.lastName);
+    });
+
+
   });
 });
