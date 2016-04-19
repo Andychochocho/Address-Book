@@ -1,56 +1,24 @@
+# Address Book
 
-<!-- README FILE. Replace where needed -->
-# _Application Name_
+#### By Andrew Cho and Timothy Durward
 
-#### _Short Summary of Application!_
-
-#### By _**Tim Durward**_
-
-## Description
-
-_Brief Description of Application._
+## Description  
+_This creates an address book with contacts and phone numbers allocated to the contacts._
 
 ## Setup/Installation Requirements
+* Open index.html to view page.  
 
-* _Open CMD/Terminal_
-* _git clone (github url)_
-* _cd into Git Repo_
-* _open index.html_
-* _BE. AMAZED._
+## Known Bugs
+_No known bugs!_  
 
+## Technologies Used  
+* HTML
+* Javascript
+* Jquery
+* Mocha/Chai (TDD)  
 
 ## Support and contact details
+_If any contact is needed you can reach me at my email at cho-andrew@hotmail.com_  
 
-_Support and Contact Description_
-
-## Technologies Used
-
-* _html, css, markdown_
-* _Jquery, javascript_
-* _bootstrap, fontAwesome_
-* _hard work_
-
-### License
-
-The MIT License (MIT)
-
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-**_Tim Durward_** Copyright (c) 2015
+### License  
+*This software is licensed under the MIT license.*  Copyright (c) 2016 **By Andrew Cho**
